@@ -12,7 +12,8 @@ Hello! I am Hanin Sherif, a third-year Computer and Communication Engineering st
 
 ## Get in Touch
 - LinkedIn: https://www.linkedin.com/in/hanin-sherif
-- Email: haninsherif327@gmail.com 
+- Email: haninsherif327@gmail.com
+- Kaggle: https://www.kaggle.com/haninsherif33 
 
 Feel free to explore my repositories and get in touch if you have any questions or just want to connect!
 
