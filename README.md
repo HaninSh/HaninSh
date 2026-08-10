@@ -12,9 +12,6 @@ My background combines Artificial Intelligence, Computer Vision, and UI/UX Desig
   - Deep Learning
   - Object Detection
   - Image Segmentation
-  - YOLO
-  - OpenCV
-  - Nividia Jetson
 - 🌱 Always learning and exploring new technologies.
 
 <h3 align="left">Languages and Tools:</h3>
