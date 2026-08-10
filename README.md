@@ -1,15 +1,20 @@
 ## Welcome to My GitHub Profile 👋
-Hello! I am Hanin Sherif, a third-year Computer and Communication Engineering student, I am passionate about Embedded Systems and have a solid grasp of its basic concepts through various projects. Currently, I am delving into Artificial Intelligence to explore and integrate AI with embedded systems, aiming to develop innovative applications.
+I’m Hanin Sherif, a Computer Engineering graduate passionate about building intelligent and innovative solutions that address real-world problems.
+My background combines Artificial Intelligence, Computer Vision, and UI/UX Design. I’ve gained hands-on experience developing real-time computer vision applications using YOLO, OpenCV, PyTorch, and NVIDIA Jetson.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haninsh&label=Profile%20views&color=0e75b6&style=flat" alt="haninsh" /> </p>
 
 ## About Me
-- 🎓 Currently pursuing my degree in Computer Engineering.
+- 🎓 Pursued my degree in Computer & Communication Engineering.
 - 🔧 Skilled in:
-  - Embedded systems
-  - C and C++ programming languages
-  - Arduino projects
-  - Currently Studying Machine Learning @ DEPI 
+  - Computer Vision
+  - Machine Learning
+  - Deep Learning
+  - Object Detection
+  - Image Segmentation
+  - YOLO
+  - OpenCV
+  - Nividia Jetson
 - 🌱 Always learning and exploring new technologies.
 
 <h3 align="left">Languages and Tools:</h3>
@@ -19,7 +24,7 @@ Hello! I am Hanin Sherif, a third-year Computer and Communication Engineering st
 - LinkedIn: https://www.linkedin.com/in/hanin-sherif
 - Email: haninsherif327@gmail.com
 - Kaggle: https://www.kaggle.com/haninsherif33
-- Hackerrank : https://www.hackerrank.com/profile/haninsherif03
+
 
 Feel free to explore my repositories and get in touch if you have any questions or just want to connect!
 
